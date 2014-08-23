@@ -1,4 +1,4 @@
-# Modified for CEBScan
+// Modified for CEBScan
 
 
 #ifndef CSLASER_H
