@@ -1,3 +1,5 @@
+# Modified for CEBScan
+
 #ifndef CSLASER_H
 #define CSLASER_H
 
