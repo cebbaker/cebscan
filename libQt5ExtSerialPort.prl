@@ -1,0 +1,5 @@
+QMAKE_PRL_BUILD_DIR = /home/ceb/FabScan/fabscan Software/FabScan100-master/qtTest/qextserialport-1.2rc
+QMAKE_PRO_INPUT = qextserialport.pro
+QMAKE_PRL_TARGET = libQt5ExtSerialPort.so.1.2.0
+QMAKE_PRL_CONFIG = lex yacc debug exceptions depend_includepath testcase_targets import_plugins import_qpa_plugin qt warn_on link_prl incremental gdb_dwarf_index shared qpa no_mocdepend qt_no_framework linux unix posix gcc debug declarative_debug qml_debug create_prl shared have_target dll thread moc resources
+QMAKE_PRL_VERSION = 1.2.0
