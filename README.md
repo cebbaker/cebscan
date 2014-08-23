@@ -17,5 +17,5 @@ qextserialport-1.2rc
 
 Currently all development is Linux based Ubuntu
 
-Hardware is all 3D printed using OpenScad CAD software. STL files are located on Thiniverse site under URL
+Hardware is all 3D printed using OpenScad CAD software. STL files are located on Thingiverse site under URL
 http://www.thingiverse.com/thing:284142
